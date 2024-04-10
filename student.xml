@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Students>
+    <Student>
+        <id>1</id>
+        <Name>Duong Dang Quan</Name>
+        <Address>66 My An 23</Address>
+        <DateOfBirth>2004-08-18</DateOfBirth>
+    </Student>
+    <Student>
+        <id>2</id>
+        <Name>Nguyen Anh Nha</Name>
+        <Address>10 Chau Thi Vinh Te</Address>
+        <DateOfBirth>2006-01-12</DateOfBirth>
+    </Student>
+    <Student>
+        <id>3</id>
+        <Name>Nguyen Van Yasui</Name>
+        <Address>23 Doan Uan</Address>
+        <DateOfBirth>2004-10-02</DateOfBirth>
+    </Student>
+    <Student>
+        <id>4</id>
+        <Name>Nguyen Kieu Anh</Name>
+        <Address>10 Le Duan</Address>
+        <DateOfBirth>2004-10-12</DateOfBirth>
+    </Student>
+    <Student>
+        <id>5</id>
+        <Name>Le Van Hasagi</Name>
+        <Address>78 Mac Dinh Chi</Address>
+        <DateOfBirth>2004-11-08</DateOfBirth>
+    </Student>
+</Students>
